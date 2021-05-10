@@ -1,7 +1,7 @@
 {
   "domain": "openevse",
   "name": "OpenEVSE",
-  "config_flow": true,
+  "config_flow": false,
   "documentation": "https://www.home-assistant.io/integrations/openevse",
   "dependencies": [],
   "codeowners": [],  
